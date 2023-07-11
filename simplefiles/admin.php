@@ -3,6 +3,7 @@ session_start();
 //session is started
 //simple comment
 //simple comment2
+//simple comment3
 require 'dbconfig/config.php';
 ?>
 <!DOCTYPE html>
