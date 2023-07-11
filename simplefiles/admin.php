@@ -1,6 +1,7 @@
 <?php
 session_start();
 //session is started
+//simple comment
 require 'dbconfig/config.php';
 ?>
 <!DOCTYPE html>
