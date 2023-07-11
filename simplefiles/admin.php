@@ -9,7 +9,7 @@ require 'dbconfig/config.php';
 <head>
 
 
-	<title>Login as Admin</title>
+	<title>Login as admin bro</title>
 	<link rel="stylesheet" href="css/stylex.css">
 	<style>
 		body {
